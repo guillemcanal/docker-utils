@@ -49,9 +49,10 @@ Commands:
 
 ### Tips and tricks 
 
-So, my docker machine is named `default`
-Let say I have configured my DNS server with the following domain: `dev`
+So, my docker machine is named `default`  
+Let say I have configured my DNS server with the following domain: `dev`  
 If I need to create a container running nginx and access it with `omg.nginx.dev`
+
 Here is what I need to do:
 
 ```
